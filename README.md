@@ -1,3 +1,8 @@
+---
+title: Homepage
+layout: default
+---
+
 # Lorenzo Bonham
 ## About:
 Pursuing a Bachelor of Science in Electrical Engineering at Texas Tech University, expected May 2026, with a strong focus on LED performance analysis, photolithography, and micro-scale component fabrication. Currently contributing to the Texas Tech Electrical and Computer Engineering Department as an Undergraduate Research Assistant, utilizing advanced equipment such as probe stations, spectrometers, and source meters to ensure precise device characterization.  
